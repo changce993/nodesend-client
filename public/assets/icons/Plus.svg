@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fd6262;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_49" data-name="Grupo 49" transform="translate(-3207 -597)">
+    <rect id="Rectángulo_83" data-name="Rectángulo 83" class="cls-1" width="20" height="20" transform="translate(3207 597)"/>
+    <g id="Grupo_48" data-name="Grupo 48">
+      <rect id="Rectángulo_81" data-name="Rectángulo 81" class="cls-2" width="4" height="16" rx="1" transform="translate(3215 599)"/>
+      <rect id="Rectángulo_82" data-name="Rectángulo 82" class="cls-2" width="4" height="16" rx="1" transform="translate(3225 605) rotate(90)"/>
+    </g>
+  </g>
+</svg>
